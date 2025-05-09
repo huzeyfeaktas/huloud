@@ -1,0 +1,47 @@
+[
+  {
+    "username": "huzeyfeakt",
+    "displayName": "Huzeyfe Aktaş",
+    "email": "huzeyfeakt@gmail.com",
+    "password": "c14c3da5a89d8186577a5b94c8137aafdd4ff834e7b0b3b54769a69698bbeae1048c8e57510681cf8aa866866b15b6b469286b43457f645cfa447d5925619619.66168f08e7a70dcfcf452d6400d08d2d",
+    "id": 1,
+    "createdAt": "2025-05-05T13:34:20.307Z",
+    "updatedAt": "2025-05-05T13:34:20.307Z"
+  },
+  {
+    "username": "semsamsum",
+    "displayName": "Sem Samsum",
+    "email": "smnr@gmail.com",
+    "password": "eb71a7cc3ebb357d7f080f4d33d59015313806ef917b02ac5aaabb4eb0f08eff9e86cc6c286217af47e44b30000f7de04cfb70a72dfd67cf783129f200d5528d.45b06925c1802f7d4c10b4e1d54daa4d",
+    "id": 2,
+    "createdAt": "2025-05-05T13:37:08.643Z",
+    "updatedAt": "2025-05-05T13:37:08.643Z"
+  },
+  {
+    "username": "sem",
+    "displayName": "samsum",
+    "email": "sem_smsm17@gmail.com",
+    "password": "45094dffe53647211e3f40ff78a0e172e531a0e3e44e180ae7bdf947b5420ddf6cd72d13dd454a6037a972fb31d8104d7062302026eb266cdd908b8e1016a07b.1e3e94773ab8642c4b3eb39a13083eb7",
+    "id": 3,
+    "createdAt": "2025-05-07T11:12:11.055Z",
+    "updatedAt": "2025-05-07T11:12:11.055Z"
+  },
+  {
+    "username": "deneme",
+    "displayName": "deneme deneme",
+    "email": "deneme@gmail.com",
+    "password": "b398394877e6529825dea46b4a44b9857c3a20147d3b95f9d7b5857a6280d46e4cd3749a1bc7351ac1bb2b8137ef77d1fa4ae3e1e2a046959e1283454d0d83bf.63222f8dc6d4f22fd7b3b0e9f44c3501",
+    "id": 4,
+    "createdAt": "2025-05-07T11:15:59.705Z",
+    "updatedAt": "2025-05-07T11:15:59.705Z"
+  },
+  {
+    "username": "avi",
+    "displayName": "avi avi",
+    "email": "avi@gmail.com",
+    "password": "f9b58fb88c38bead59695883dab30de4028c4c0a97d10474e27a1fbc584c63d3c38f1f5c9ca9768c0d0a7a194a40d8c58e2815f1e0877a338eec24c6dc1514a1.7ca9b6f32020efebe226f4dc5ee15f0a",
+    "id": 5,
+    "createdAt": "2025-05-07T13:40:51.850Z",
+    "updatedAt": "2025-05-07T13:40:51.850Z"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "network": {
+    "enableRemoteAccess": true,
+    "port": 8080,
+    "useSSL": false,
+    "domain": ""
+  },
+  "storage": {
+    "selectedDeviceId": "disk-1"
+  }
+}

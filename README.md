@@ -7,11 +7,13 @@ Huloud, kişisel dosyalarınızı güvenli bir şekilde depolamanızı, organize
 ## 📱 Uygulama Görselleri
 
 ### Ana Sayfa - Dosya Yönetimi
-![Ana Sayfa](./1.png)
+![1](https://github.com/user-attachments/assets/eca4041b-8545-4be9-962b-c1678f74b363)
+
 *Mobil uyumlu ana sayfa - dosyalarınızı kolayca görüntüleyin ve yönetin*
 
 ### Kullanıcı Kayıt Sistemi
-![Kayıt Sayfası](./attached_assets/Ekran%20görüntüsü%202025-05-06%20171329.png)
+![6](https://github.com/user-attachments/assets/3ce37e15-02f5-48e4-a0ad-2ccc2536ac4f)
+
 *Güvenli kullanıcı kayıt sistemi - hesap oluşturma ve giriş işlemleri*
 
 ## ✨ Özellikler
@@ -23,6 +25,9 @@ Huloud, kişisel dosyalarınızı güvenli bir şekilde depolamanızı, organize
 - **Yetkilendirme**: Kullanıcı bazlı dosya erişim kontrolü
 
 ### 📁 Dosya Yönetimi
+![5](https://github.com/user-attachments/assets/e918be32-e244-45ff-a763-65859ebb1c2a)
+
+
 - **Dosya Yükleme**: Sürükle-bırak ile kolay dosya yükleme
 - **Klasör Yapısı**: Hiyerarşik klasör organizasyonu
 - **Dosya Türleri**: Resim, video, belge ve diğer dosya türleri desteği
@@ -31,6 +36,9 @@ Huloud, kişisel dosyalarınızı güvenli bir şekilde depolamanızı, organize
 - **Sıralama**: Boyut, tarih ve isim bazlı sıralama
 
 ### 🎨 Kullanıcı Arayüzü
+![2](https://github.com/user-attachments/assets/97391073-3de3-485c-ada9-eb6d90c2b15a)
+![7](https://github.com/user-attachments/assets/908118c2-6b46-400a-812e-56be88f8bbf6)
+
 - **Modern Tasarım**: Tailwind CSS ile şık ve modern arayüz
 - **Responsive**: Mobil ve masaüstü uyumlu tasarım
 - **Dark/Light Mode**: Tema değiştirme özelliği
@@ -38,6 +46,7 @@ Huloud, kişisel dosyalarınızı güvenli bir şekilde depolamanızı, organize
 - **Context Menu**: Sağ tık menüsü ile hızlı işlemler
 
 ### 📊 Depolama Yönetimi
+![4](https://github.com/user-attachments/assets/f781fa24-025d-4e65-99c7-7ec29aa5e5ae)
 - **Depolama İstatistikleri**: Kullanılan ve boş alan görüntüleme
 - **Kullanıcı Kotası**: Kullanıcı bazlı depolama limitleri
 - **Sistem Bilgileri**: Disk kullanım durumu
@@ -347,3 +356,4 @@ Sorularınız veya önerileriniz için:
 
 
 **Huloud** - Dosyalarınızı güvenle saklayın, her yerden erişin! 🚀
+

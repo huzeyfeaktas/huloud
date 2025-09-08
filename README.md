@@ -7,7 +7,7 @@ Huloud, kişisel dosyalarınızı güvenli bir şekilde depolamanızı, organize
 ## 📱 Uygulama Görselleri
 
 ### Ana Sayfa - Dosya Yönetimi
-![Ana Sayfa](./attached_assets/Ekran%20görüntüsü%202025-05-05%20172919.png)
+![Ana Sayfa](./1.png)
 *Mobil uyumlu ana sayfa - dosyalarınızı kolayca görüntüleyin ve yönetin*
 
 ### Kullanıcı Kayıt Sistemi
@@ -344,5 +344,6 @@ Sorularınız veya önerileriniz için:
 - Dokümantasyonu inceleyin
 
 ---
+
 
 **Huloud** - Dosyalarınızı güvenle saklayın, her yerden erişin! 🚀
